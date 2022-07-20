@@ -1,4 +1,4 @@
-module packageParser
+module github.com/RandyWei/packageParser
 
 go 1.18
 
